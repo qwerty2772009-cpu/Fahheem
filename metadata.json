@@ -1,0 +1,6 @@
+{
+  "name": "FAHHEEM",
+  "description": "Intelligent AI Study Companion & Personal Secretary (فهِّييم)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
